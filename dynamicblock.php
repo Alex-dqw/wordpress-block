@@ -7,7 +7,7 @@
  * Author URI: https://www.weblancer.net/users/alexyablokov/
  */
 
-function alexdqw_myblock_init() {
+function alexdqw_dynamicblock_init() {
     register_block_type_from_metadata(__DIR__);
 }
-add_action('init', 'alexdqw_myblock_init');
+add_action('init', 'alexdqw_dynamicblock_init');
