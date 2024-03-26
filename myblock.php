@@ -1,8 +1,8 @@
 <?php 
 /**
- * Plugin Name: My Block
+ * Plugin Name: Dynamic Posts
  * Plugin URI: https://alexsite.xyz/
- * Description: Gutenberg Block
+ * Description: Gutenberg Dynamic Block
  * Author: Alex-dqw
  * Author URI: https://www.weblancer.net/users/alexyablokov/
  */
